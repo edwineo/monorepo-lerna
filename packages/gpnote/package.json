@@ -1,0 +1,26 @@
+{
+  "name": "gpnote",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "liu chang <aboutcroon@gmail.com>",
+  "homepage": "https://github.com/edwineo/monorepo-lerna#readme",
+  "license": "ISC",
+  "main": "lib/gpnote.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwineo/monorepo-lerna.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/gpnote.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/edwineo/monorepo-lerna/issues"
+  }
+}
